@@ -1,0 +1,7 @@
+streamlit
+pandas
+opencv-python
+pillow
+reportlab
+azure-cognitiveservices-vision-computervision
+openpyxl
